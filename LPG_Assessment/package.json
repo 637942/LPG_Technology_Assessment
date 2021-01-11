@@ -1,0 +1,22 @@
+{
+  "name": "lpg_assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "node_modules\\.bin\\cypress open",
+    "cy:run": "node_modules\\.bin\\cypress run",
+    "cy:headrun": "npm run cy:run -- --headed",
+    "cy:chromerun": "npm run cy:run -- --browser chrome",
+    "cy:dashboard": "npm run cy:run -- --record --key 28fb45e0-c56e-4b7c-8980-fd64c2f8e8f6"
+  },
+  "author": "Karpagam Vellaichamy",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.2.1",
+    "cypress-cucumber-preprocessor": "^4.0.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}

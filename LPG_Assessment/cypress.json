@@ -1,0 +1,7 @@
+{
+  "testFiles": "**/*.feature",
+  "baseUrl": "https://gocity.com/boston/en-us/products/all-inclusive",
+  "defaultCommandTimeout": 30000,
+  "pageLoadTimeout": 30000,
+  "projectId": "ymbvjx"
+}

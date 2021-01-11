@@ -1,0 +1,10 @@
+{
+  "passtype": "Bos_Prod_Go_d2",
+  "adultcount": 2,
+  "childcount": 1,
+  "reviewpagetitle": "Review your order",
+  "validemail": "karpskarthi20@gmail.com",
+  "invalidemail": "test",
+  "emailerror": "The email address test is not valid.",
+  "thanksmsg" : "Thanks for signing up!"
+}
