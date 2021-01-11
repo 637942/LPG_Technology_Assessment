@@ -1,6 +1,6 @@
 # LPG_Technical_Assessment
 
-I have created the BDD framework with Cypress for the All-inclusive page and the scripts are the folder LPG_Assessment.For that I have derived some high level manual test scenarios LPG_Assessment_Test_Scenarios and automated most of the scenarios.
+I have created the BDD framework with Cypress for the All-inclusive page and the scripts are there in the folder LPG_Assessment.For that I have derived some high level manual test scenarios LPG_Assessment_Test_Scenarios and automated most of the scenarios.
 
 ### PRE-REQUISITES ###
 
